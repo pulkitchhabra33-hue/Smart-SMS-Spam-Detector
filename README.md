@@ -51,3 +51,5 @@ To understand how machines interpret human language and apply classical NLP tech
 - Deploy as a web application
 - Hyperparameter tuning
 
+## Author
+Pulkit Chhabra
